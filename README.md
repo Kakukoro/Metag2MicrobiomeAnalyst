@@ -1,4 +1,4 @@
-# VIS File Processor
+# Metag2MicrobiomeAnalyst
 
 A Python script for processing metagenomic `calc.VIS.txt` files to generate taxonomy and read count tables for downstream analysis.
 
