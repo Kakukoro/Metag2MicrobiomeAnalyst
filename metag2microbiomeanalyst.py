@@ -354,7 +354,7 @@ def main():
     print(f"  Shape: {read_count_df.shape}")
     print(f"  Samples: {len(metadata_sample_ids)}")
     print(f"\nNote:")
-    print(f"  - OTUs are grouped by GENUS level (species/strain differences ignored)")
+    print(f"  - OTUs are grouped by: GENUS level (species/strain differences ignored)")
     print(f"  - Unknown/unclassified normalized to 'unclassified'")
     print(f"  - Punctuation stripped from taxonomy names")
 
