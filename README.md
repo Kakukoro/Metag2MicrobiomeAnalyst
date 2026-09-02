@@ -174,4 +174,4 @@ The script performs several normalization steps on taxonomy names:
 
 - The script extracts sample IDs from the **directory names** containing `calc.VIS.txt` files
 - Only samples that exist in the metadata `#NAME` column are included in the output
-- Sample order in the output follows the order in the metadata file
+- Sample order in the output follows the order in the metadata file.
